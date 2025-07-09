@@ -141,7 +141,7 @@ class Program
         if (hasSnacks)
             Console.WriteLine("Snacks: " + string.Join(", ", party.Snacks));
 
-        // Show other specific info if available
+    
         party.PlanParty();
 
         Console.WriteLine("\n--- Cost Calculation ---");
