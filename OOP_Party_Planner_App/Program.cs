@@ -119,8 +119,7 @@ class Program
         }
         
 
-        // --- COST CALCULATION SECTION ---
-        // You can change unit prices as you like.
+
       
 
         double totalFood = hasFood ? party.NumberOfGuests * mealPrice : 0;
